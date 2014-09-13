@@ -267,7 +267,7 @@ typedef NS_ENUM(NSUInteger, MarqueeType) {
 
 - (void)unpauseLabel;
 
-
+- (void)updateSublabelAndLocations;
 
 ////////////////////////////////////////////////////////////////////////////////
 /// @name Animation Status
